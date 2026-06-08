@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SaulApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#f5c518</item>
+        <item name="colorPrimaryDark">#1a1a2e</item>
+        <item name="colorAccent">#f5c518</item>
+        <item name="android:windowBackground">#1a1a2e</item>
+    </style>
+</resources>
